@@ -1,0 +1,15 @@
+Package: seetools
+Title: Utilities for Stefan E. Eng
+Version: 0.0.0.9000
+Authors@R: 
+    person("Stefan", "Eng", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
