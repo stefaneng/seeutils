@@ -2,4 +2,4 @@
 
 export(all_same)
 importFrom(Rcpp,sourceCpp)
-useDynLib(seetools, .registration = TRUE)
+useDynLib(seeutils, .registration = TRUE)

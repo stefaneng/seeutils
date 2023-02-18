@@ -1,4 +1,4 @@
-Package: seetools
+Package: seeutils
 Title: Utilities for Stefan E. Eng
 Version: 0.0.0.9000
 Authors@R: 
@@ -13,3 +13,6 @@ LinkingTo:
     Rcpp
 Imports: 
     Rcpp
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

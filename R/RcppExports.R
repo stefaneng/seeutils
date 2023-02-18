@@ -2,10 +2,10 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 .all_same_num <- function(x) {
-    .Call(`_seetools_all_same_num`, x)
+    .Call(`_seeutils_all_same_num`, x)
 }
 
 .all_same_char <- function(x) {
-    .Call(`_seetools_all_same_chr`, x)
+    .Call(`_seeutils_all_same_chr`, x)
 }
 
